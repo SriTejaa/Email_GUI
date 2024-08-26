@@ -1,3 +1,5 @@
+# Simple application to send Email using Python tkinter
+
 import tkinter as tk
 from tkinter import messagebox
 import smtplib
